@@ -4,6 +4,7 @@ from flask_login import current_user
 
 
 
+
 @main.route('/')
 @main.route('/home')
 def home():

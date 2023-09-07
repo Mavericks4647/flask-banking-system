@@ -80,7 +80,7 @@ $ (env) flask shell
 ```cmd
 $ (env) set FLASK_APP=manage.py
 $ (env) set FLASK_ENV=development
-$ (env) set SECRET_KEY=<choose-your-secret-key>
+$ (env) set SECRET_KEY=<464720012003>
 $ (env) flask run     # 127.0.0.1:5000
 ```
 ### for mac/linux

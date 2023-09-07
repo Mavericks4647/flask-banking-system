@@ -22,5 +22,6 @@ def make_shell_context():
     --> uncomment the code below if you wish
     --> to use vs code debugger
 '''
-#if __name__ == '__main__':
-    #app.run(use_debugger=False, use_reloader=False, passthrough_errors=True)
+
+if __name__ == '__main__':
+    app.run(use_debugger=True, use_reloader=False, passthrough_errors=True)
